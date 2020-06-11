@@ -1,3 +1,3 @@
 # repo8934
 
-Here is the [test][reddit.com]
+Here is the [test](reddit.com)
